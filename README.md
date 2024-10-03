@@ -20,9 +20,9 @@ LN Address ⚡ dij@strike.me | ⚡ dbang@zbd.gg
 
 ### Currently Working On:
 
-[Code School](https://github.com/CodeCrew-CodeSchool) Cohort Module 4
+[Code School](https://github.com/CodeCrew-CodeSchool) + Curriculum + SOP
 
-Learning C and Zig
+Building Games and Bitcoin Software with Zig
 
 <!--
 **mrjones91/mrjones91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
