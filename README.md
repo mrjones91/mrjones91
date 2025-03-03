@@ -1,6 +1,8 @@
 <style>
-  background-color: rgb(13, 17, 23);
-  color: rgb(240, 246, 252);
+  body {
+    background-color: rgb(13, 17, 23);
+    color: rgb(240, 246, 252);
+  }
 </style>
 ## hello world 👋🏾
 
