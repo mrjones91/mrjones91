@@ -1,6 +1,7 @@
 ## hello world 👋🏾
 
 <div>
+  
 [![My Skills](https://skillicons.dev/icons?i=zig,cs,c,dotnet,nodejs,express,sqlite,mongodb,mysql,js,htmx,html,css,md,bootstrap,materialui,jquery,angular,wasm,git,github,vscode,unity,unreal,supabase,ai,ps,apple,windows,ubuntu,linux,docker,discord)](https://skillicons.dev)
 
 [About dij](https://www.dij.io)
