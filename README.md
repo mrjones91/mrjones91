@@ -13,8 +13,14 @@
 NOSTR Client: [Iris](https://iris.to/npub1fr2qklncjgf63t933r7cewpkyt5rv5ceq68zzwqz9fm4c8a5wjwq3sfgkh) / npub: npub1fr2qklncjgf63t933r7cewpkyt5rv5ceq68zzwqz9fm4c8a5wjwq3sfgkh 
 
 <!-- [Primal](https://primal.net/p/npub1fr2qklncjgf63t933r7cewpkyt5rv5ceq68zzwqz9fm4c8a5wjwq3sfgkh) -->
-
-LN Addresses | ⚡ dij@strike.me | ⚡ dbang@zbd.gg
+<table style="background-color: rgb(13, 17, 23); color: rgb(240, 246, 252);">
+  <tr>
+    <td>LN Addresses</td>
+    <td>⚡ dij@strike.me</td>
+    <td>⚡ dbang@zbd.gg</td>
+  </tr>
+</table>
+<!-- LN Addresses | ⚡ dij@strike.me | ⚡ dbang@zbd.gg -->
 
 [Facebook](https://facebook.com/mrjones91)
 
