@@ -1,6 +1,6 @@
 ## hello world 👋🏾
 
-<>
+<div>
 [![My Skills](https://skillicons.dev/icons?i=zig,cs,c,dotnet,nodejs,express,sqlite,mongodb,mysql,js,htmx,html,css,md,bootstrap,materialui,jquery,angular,wasm,git,github,vscode,unity,unreal,supabase,ai,ps,apple,windows,ubuntu,linux,docker,discord)](https://skillicons.dev)
 
 [About dij](https://www.dij.io)
@@ -24,7 +24,7 @@ LN Address ⚡ dij@strike.me | ⚡ dbang@zbd.gg
 [Code School](https://github.com/CodeCrew-CodeSchool) + Curriculum + SOP
 
 Building Games and Bitcoin Software with Zig
-</>
+</div>
 <!--
 **mrjones91/mrjones91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
