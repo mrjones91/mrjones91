@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="./style.css"/>
 
 ## My LN Addresses 
-⚡ dij@strike.me 
+⚡ [dij@strike.me](https://strike.me/dij/)
 ⚡ dbang@zbd.gg
 
 ### My Github:
