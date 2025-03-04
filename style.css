@@ -1,4 +1,4 @@
-body, a img, td {
+body, img[alt="My Skills"], td {
   background-color: rgb(13, 17, 23);
   color: rgb(240, 246, 252);
 }
