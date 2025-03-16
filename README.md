@@ -3,9 +3,12 @@
 iam DJ
 
 ### Work:
-Senior Instructor at [CodeCrew](https://code-crew.org/codeschool)'s [CodeSchool](https://github.com/CodeCrew-CodeSchool) in Memphis, TN.
 
-[Saxophone Jones](./sax)
+👨🏾‍💻 Senior Instructor at [CodeCrew](https://code-crew.org/codeschool)'s [CodeSchool](https://github.com/CodeCrew-CodeSchool) in Memphis, TN.
+
+🎷 [Saxophone Jones](./sax)
+
+🦘 [Jumping Jones](./jumpingjones)
 
 ### 2025 Learnings:
 ✅[Chaincode Labs 2025 ₿OSS Cohort](https://learning.chaincode.com/) 
