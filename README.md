@@ -2,7 +2,11 @@
 
 iam DJ
 
-### Work:
+## My LN Addresses: 
+⚡ [dij@strike.me](https://strike.me/dij/)
+⚡ dbang@zbd.gg
+
+### My Work:
 
 👨🏾‍💻 Senior Instructor at [CodeCrew](https://code-crew.org/codeschool)'s [CodeSchool](https://github.com/CodeCrew-CodeSchool) in Memphis, TN.
 
@@ -10,19 +14,12 @@ iam DJ
 
 🦘 [Jumping Jones](./jumpingjones)
 
-### 2025 Learnings:
+### Recent Learnings (2025):
 ✅[Chaincode Labs 2025 ₿OSS Cohort](https://learning.chaincode.com/) 
 
 ⏳[Btrust Builder](https://btrust.tech) Pathway Learner.
 
 <link rel="stylesheet" href="./style.css"/>
-
-## My LN Addresses: 
-⚡ [dij@strike.me](https://strike.me/dij/)
-⚡ dbang@zbd.gg
-
-### My Github:
-[mrjones91](https://github.com/mrjones91)
 
 ### My Skills:
 ##### Frontend:
@@ -66,6 +63,9 @@ Building Games and Bitcoin Software with Zig
 
 ### Resume:
 [resume.dij.io](https://resume.dij.io)
+
+### My Github:
+[mrjones91](https://github.com/mrjones91)
 
 <!--
 **mrjones91/mrjones91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
