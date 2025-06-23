@@ -12,7 +12,7 @@ iam DJ
 
 🎷 [Saxophone Jones](./sax)
 
-🦘 [Jumping Jones](./jumpingjones)
+<!--🦘 [Jumping Jones](./jumpingjones)-->
 
 ### Recent Learnings (2025):
 ✅[Chaincode Labs 2025 ₿OSS Cohort](https://learning.chaincode.com/) 
