@@ -10,7 +10,7 @@ iam DJ
 
 👨🏾‍💻 Senior Instructor at [CodeCrew](https://code-crew.org/codeschool)'s [CodeSchool](https://github.com/CodeCrew-CodeSchool) in Memphis, TN.
 
-🎷 [Saxophone Jones](./sax)
+🎷 [Saxophone Jones](https://dij.io/sax)
 
 <!--🦘 [Jumping Jones](./jumpingjones)-->
 
