@@ -49,9 +49,7 @@ iam DJ
 <table>
     <thead>
         <td>My Words</td>
-        <td>My Pages</td>
-        <td>Resume</td>
-        <td>Github</td>
+        <td>Resumes</td>
     </thead>
     <tbody>
         <tr>
@@ -59,14 +57,7 @@ iam DJ
                 <a href="https://sidequests.onrender.com/Blog/Staff/DJ">Blog</a>
             </td>
             <td>
-                <a href="https://iris.to/npub1fr2qklncjgf63t933r7cewpkyt5rv5ceq68zzwqz9fm4c8a5wjwq3sfgkh">NOSTR</a>
-                <!-- - npub: npub1fr2qklncjgf63t933r7cewpkyt5rv5ceq68zzwqz9fm4c8a5wjwq3sfgkh -->
-            </td>
-            <td>
                 <a href="https://resume.dij.io">resume.dij.io</a>
-            </td>
-            <td>
-                <a href="https://github.com/mrjones91">mrjones91</a>
             </td>
         </tr>
         <tr>
@@ -74,14 +65,16 @@ iam DJ
                 <a href="https://www.youtube.com/@dij117">Youtube</a>
             </td>
             <td>
-                <a href="https://linkedin.com/in/djones20">LinkedIn</a>
+                <a href="https://github.com/mrjones91">Github</a>
             </td>
         </tr>
         <tr>
-            <td>
+             <td>
+                <a href="https://iris.to/npub1fr2qklncjgf63t933r7cewpkyt5rv5ceq68zzwqz9fm4c8a5wjwq3sfgkh">NOSTR</a>
+                <!-- - npub: npub1fr2qklncjgf63t933r7cewpkyt5rv5ceq68zzwqz9fm4c8a5wjwq3sfgkh -->
             </td>
             <td>
-                <a href="https://facebook.com/mrjones91">Facebook</a>
+                <a href="https://linkedin.com/in/djones20">LinkedIn</a>
             </td>
         <tr>
     </tbody>
