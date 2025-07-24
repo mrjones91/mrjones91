@@ -76,7 +76,7 @@ iam DJ
             <td>
                 <a href="https://linkedin.com/in/djones20">LinkedIn</a>
             </td>
-        <tr>
+        </tr>
     </tbody>
 </table>
 
