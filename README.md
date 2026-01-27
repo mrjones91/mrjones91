@@ -2,15 +2,17 @@
 
 iam DJ
 
+
+
 ## My LN Addresses: 
 ⚡ [dij@strike.me](https://strike.me/dij/)
 ⚡ dbang@zbd.gg
 
 ### Current Projects:
 
-[Code School](https://github.com/CodeCrew-CodeSchool) Curriculum & Projects 🛠️
+[Wattville](https://github.com/mrjones91/wattville) Starting Bitcoin Business(es) in Small-town TN 🛠️
 
-⚙️🎮Building Games and Bitcoin Software with Zig/C
+⚙️🎮 Building Games and Bitcoin Software with Zig/C
 
 ### Proof of Work:
 

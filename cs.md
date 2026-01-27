@@ -1,5 +1,7 @@
 # Computer Science Educator
 
+<link rel="stylesheet" href="./style.css"/>
+
 Employers Include:
 
 - CodeCrew, 2022-Present
