@@ -1,3 +1,7 @@
+# Daniel Jones
+
+Computer Scientist and Innovator
+
 ## Education:
 
 Bachelor’s of Science in Computer Science and Art – Tennessee State University, 2015
@@ -25,18 +29,13 @@ October 2022 - Present
 
 **Senior CodeSchool Instructor**
 
-Train adult learners for Software Engineering and general IT work. I lead our CodeSchool and K-12 Instructors in curriculum development spanning introductory computer skills and more advanced Computer Science topics: Web/App Development, Machine Learning, Robotics, Embedded Systems, Game Development  and provide
-technical and career mentorship for students. Develops and modifies a comprehension curriculum in Software
-Design, SDLC, Full Stack Development, API Development and Integration, and Database Management.
+I train adult learners for Software Engineering and IT related lines work and lead our Instructors in curriculum development spanning introductory computer skills and more advanced Computer Science topics: Web/App Development, Machine Learning, Robotics, Embedded Systems, and Game Development. At CodeSchool, I also provide technical and career mentorship for students and Jr Instructors. Since standing up our in-house curriculum, I lead the team yearly updates to our curriculum in Software Design, SDLC, Full Stack Development, API Development & Integration, Database Management, AI, and Cybersecurity Fundamentals.
 
 ### C. S. Lewis Marketing & dijital Technologies
 
 December 2015 – Present
 
 My wife and I provide marketing and technical services. I serve as the CTO and oversee Technical and IT auditing and consulting projects that include Custom Application Development and Support, System Integrations, and Cybersecurity Consulations.
- 
-- ODE Audio - As the Technical Project Manager for this Memphis audio service, I provided routine maintenance and support for the Featured Radio Stations, and I used PHP to update their Podcast Service to automatically update each week based on the Podcast RSS feeds.
-
 
 ### Sedgwick
 
@@ -44,18 +43,13 @@ February 2019 - October 2022
 
 **Senior IT Software Development Specialist**
 
-Developed, maintained, tested and debugged software to meet generally defined requirements in a Windows
-client/server environment utilizing PL/SQL, Oracle, .Net, Microsoft SQL. Mentors team members and colleagues
-and regularly works as lead developer for projects.
+Developed, maintained, tested and debugged software to meet generally defined requirements in a Windows client/server environment utilizing PL/SQL, Oracle, .Net, Microsoft SQL. Mentors team members and colleagues and regularly works as lead developer for projects.
 
 - Contributed to UI development of XML report templates and frontend for .NET based medicare applications
-- Served as the subject matter expert on the Jaspersoft report engine, parameters, claims management, intake
-services, carrier/client interfaces and vendor/business partner interfaces.
+- Served as the subject matter expert on the Jaspersoft report engine, parameters, claims management, intake services, carrier/client interfaces and vendor/business partner interfaces.
 - Handled user needs as required in regards to application and data maintenance and system upgrades.
-- Developed and modifies software to meet the specifications outlined in data processing requests, insurance
-carrier regulations.
-- Tested and debugged assigned projects; assists in testing projects for other members of the programming staff.
-Investigates call escalations from the support staff; makes the necessary corrections to data and/or software.
+- Developed and modifies software to meet the specifications outlined in data processing requests, insurance carrier regulations.
+- Tested and debugged assigned projects; assists in testing projects for other members of the programming staff. Investigates call escalations from the support staff; makes the necessary corrections to data and/or software.
 
 ### First Horizon National Corporation 
 
@@ -73,10 +67,7 @@ June 2017 - September 2018
 
 **IT Report Analyst, IT Database Advisor**
 
-Supported the school system’s internal applications; maintained and updated application interfaces and data flows
-for school district employees. Regular tasks included updating stored procedures in SQL Server; managing shell
-scripts and creating command line tools to process file transfers; and documenting, updating, and maintaining
-application interface processes through VB Scripts, stored procedures, and server tasks. I also:
+Supported the school system’s internal applications; maintained and updated application interfaces and data flows for school district employees. Regular tasks included updating stored procedures in SQL Server; managing shell scripts and creating command line tools to process file transfers; and documenting, updating, and maintaining application interface processes through VB Scripts, stored procedures, and server tasks. I also:
 - Developed a (HTML/JS) programming curriculum for our summer 2017 interns.
 - Cut estimated migration project timelines in half by scripting tools in C# to automate data migration from SQL Server to Oracle Cloud HCM
 - Served as the Interface Lead on the district’s migration to the Oracle HCM and ERP systems, implementing the mapping, formatting, and planning the import/export of data from the legacy systems.
