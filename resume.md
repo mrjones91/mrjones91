@@ -13,7 +13,7 @@ Interactive Design and Game Development – Savannah College of Art and Design
 ## Technical Skills and Tools:
 - Key Skills: Systems Engineering, Team and Project Management, Full Stack Development, Game Design, UI/UX, IT, Cybersecurity, Hardware Evaluation and Engineering
 - Industry Expertise: Education, DoD, Fintech, Insurance, Healthcare
-- Primary Languages/Frameworks: C#/.NET, Zig, C, C++, SQL, Javascript/Node/Bun, HTML, CSS
+- Primary Languages/Frameworks: C#/.NET, Zig, C, C++, SQL, Javascript/Node/Bun, Python HTML, CSS
 - Frontend Libraries: .NET Razor & Blazor, HTMX, Blaze/SpaceBars, React Native, Web Forms, Material Design, Bootstrap, jQueryUI
 - Preferred IDEs: Visual Studio Code and neovim
 - Cloud Computing: Azure, Digital Ocean, AWS
