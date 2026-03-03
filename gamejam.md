@@ -6,6 +6,8 @@
 
 [Games For Change Challenge Details](https://learn.gamesforchange.org/student-resources?category_equal=Enter+the+G4C+Student+Challenge)
 
+[Global Game Jam Event Page](https://globalgamejam.org/jam-sites/2026/building-black-futures-union-hill-missionary-baptist-church-whiteville-tn)
+
 # Sign Up
 
 [Sign Up Form](https://form.jotform.com/260603997584066)
@@ -21,6 +23,7 @@ Parents, drop your kids off with the Media Release Consent Form, Games 4 Change 
 
 [GameDev Tools](https://learn.gamesforchange.org/student-resources?category_equal=Game-Making+Tools)
 
+
 [GameDev Tool Guides](https://learn.gamesforchange.org/student-resources?category_equal=Game-Making+Platform+Guides)
 
 [Create your Developer Account](https://itch.io/register)
@@ -28,3 +31,8 @@ Parents, drop your kids off with the Media Release Consent Form, Games 4 Change 
 [Create your Game's Launch Page](https://itch.io/game/new)
 
 <link rel="stylesheet" href="./style.css"/>
+
+<!-- 
+# Survey
+
+[Survey](https://www.jotform.com/build/260604489557063) -->
