@@ -2,7 +2,7 @@
 
 ## Games For Change - Global Game Jam NEXT @ Union Hill M. B. Church
 
-![Game Jam Flyer](https://res.cloudinary.com/dijital-technologies/image/upload/v1772214877/dij/GGJ_Next_2026.png)
+![Game Jam Flyer](https://res.cloudinary.com/dijital-technologies/image/upload/fl_preserve_transparency/v1772496728/GGJ_Next_2026_2_sk04qd.jpg?_s=public-apps)
 
 [Games For Change Challenge Details](https://learn.gamesforchange.org/student-resources?category_equal=Enter+the+G4C+Student+Challenge)
 
