@@ -21,14 +21,15 @@ Parents, drop your kids off with the Media Release Consent Form, Games 4 Change 
 
 [What is Game Design?](https://learn.gamesforchange.org/student-resources?category_equal=Become+a+Game+Designer)
 
-[GameDev Tools](https://learn.gamesforchange.org/student-resources?category_equal=Game-Making+Tools)
-
-
-[GameDev Tool Guides](https://learn.gamesforchange.org/student-resources?category_equal=Game-Making+Platform+Guides)
+[Design Document Template](https://docs.google.com/document/d/1npEvqcMZSp0IX2hWw6Qq0WqJVfmVqS_YOGFWnnwfh-A/edit?tab=t.0)
 
 [Create your Developer Account](https://itch.io/register)
 
 [Create your Game's Launch Page](https://itch.io/game/new)
+
+[GameDev Tools](https://learn.gamesforchange.org/student-resources?category_equal=Game-Making+Tools)
+
+[GameDev Tool Guides](https://learn.gamesforchange.org/student-resources?category_equal=Game-Making+Platform+Guides)
 
 <link rel="stylesheet" href="./style.css"/>
 
@@ -36,3 +37,6 @@ Parents, drop your kids off with the Media Release Consent Form, Games 4 Change 
 # Survey
 
 [Survey](https://www.jotform.com/build/260604489557063) -->
+
+[Games 4 Change Handbook](https://www.gamesforchange.org/wp-content/uploads/2025/10/SC-25-26-Competition-Guide-v7.pdf)
+
