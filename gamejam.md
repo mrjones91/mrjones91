@@ -33,10 +33,11 @@ Parents, drop your kids off with the Media Release Consent Form, Games 4 Change 
 
 <link rel="stylesheet" href="./style.css"/>
 
-<!-- 
+[Games 4 Change Handbook](https://www.gamesforchange.org/wp-content/uploads/2025/10/SC-25-26-Competition-Guide-v7.pdf)
+
+
 # Survey
 
-[Survey](https://www.jotform.com/build/260604489557063) -->
+[Survey](https://www.jotform.com/build/260604489557063)
 
-[Games 4 Change Handbook](https://www.gamesforchange.org/wp-content/uploads/2025/10/SC-25-26-Competition-Guide-v7.pdf)
 
