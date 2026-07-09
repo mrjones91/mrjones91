@@ -22,6 +22,35 @@ iam DJ
 
 🎷 [Saxophone Jones](https://dij.io/sax)
 
+#### Work History:
+<div>
+    <img src="imgs/work/USArmy.jpg" width="100px">
+    <!-- <img src="imgs/work/tacom.png" width="100px"> -->
+    <img src="imgs/work/SystemImprovementsInc.png" width="100px">
+    <img src="imgs/work/scs.jpeg" width="100px">
+    <img src="imgs/work/FirstTennessee.webp" width="100px">
+    <img src="imgs/work/sedgwick.webp" width="100px">
+    <img src="imgs/work/CodeCrew.avif" width="100px">
+    <img src="imgs/work/Trust.png" width="100px">
+</div>
+
+##### My Former Students/Mentees Have Worked At:
+<div>
+    <img src="imgs/work/asurion.svg" width="100px">
+    <img src="imgs/work/AutoZone.avif" width="100px">
+    <img src="imgs/work/CityofMemphis.avif" width="100px">
+    <img src="imgs/work/CodeSchool.avif" width="100px">
+    <img src="imgs/work/Epic.png" width="100px">
+    <img src="imgs/work/epicenter.svg" width="100px">
+    <img src="imgs/work/ookla.png" width="100px">
+    <img src="imgs/work/RedRover.avif" width="100px">
+    <img src="imgs/work/RegionalOne.avif" width="100px">
+    <img src="imgs/work/routesndJobs.png" width="100px">
+    <img src="imgs/work/ShelbyCounty.avif" width="100px">
+    <img src="imgs/work/uncomplicatedinc.png" width="100px">
+    <img src="imgs/work/xAi.png" width="100px">
+</div>
+
 <!--🦘 [Jumping Jones Party Rentals](./jumpingjones)-->
 
 <link rel="stylesheet" href="./style.css"/>
