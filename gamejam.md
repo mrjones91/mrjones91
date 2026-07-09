@@ -41,12 +41,6 @@ Parents, drop your kids off with the Media Release Consent Form, Games 4 Change 
 [Survey](https://www.jotform.com/build/260604489557063)
 
 
-
-# Survey
-
-[Survey](https://www.jotform.com/build/260604489557063)
-
-
 #### My Credentials
 
 
