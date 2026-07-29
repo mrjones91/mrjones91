@@ -1,8 +1,8 @@
 # hello world 👋🏾
 
-iam DJ
+iam DJ, a technologist, educator, and musician. As a multifaceted guy, feel free to reach out, check out any of these sample projects from game jams and my notes & research. 
 
-
+My real production work over my careeris largely proprietary, but you can find out more about those roles in PDF format @ [https://resume.dij.io](https://resume.dij.io) or in text @ [/resume](/resume)
 
 ## My LN Addresses: 
 ⚡ [dij@strike.me](https://strike.me/dij/)
@@ -10,7 +10,7 @@ iam DJ
 
 ### Current Projects:
 
-[Wattville](https://github.com/mrjones91/wattville) Starting Bitcoin Business(es) in Small-town TN 🛠️
+[Wattville](https://github.com/mrjones91/wattville) Supercharging Small-town TN with Eco-Friendly Data Centers 🛠️
 
 ⚙️🎮 Building Games and Bitcoin Software with Zig/C
 
@@ -36,17 +36,19 @@ iam DJ
 
 ##### My Former Students/Mentees Have Worked At:
 <div>
-    <img src="imgs/work/asurion.svg" width="100px">
-    <img src="imgs/work/AutoZone.avif" width="100px">
-    <img src="imgs/work/CityofMemphis.avif" width="100px">
-    <img src="imgs/work/CodeSchool.avif" width="100px">
-    <img src="imgs/work/Epic.png" width="100px">
-    <img src="imgs/work/epicenter.svg" width="100px">
-    <img src="imgs/work/ookla.png" width="100px">
-    <img src="imgs/work/RedRover.avif" width="100px">
-    <img src="imgs/work/RegionalOne.avif" width="100px">
-    <img src="imgs/work/routesndJobs.png" width="100px">
-    <img src="imgs/work/ShelbyCounty.avif" width="100px">
+    
+    <img src="imgs/work/AutoZone.avif" alt="Systems Engineer @ Autozone" width="100px">
+    <img src="imgs/work/ChristCommunityHealthServices.svg" alt="Help Desk Analyst @ Christ Community Health Services" width="100px">
+    <img src="imgs/work/CityofMemphis.avif" alt="Technology Intern @ City of Memphis" width="100px">
+    <img src="imgs/work/CodeSchool.avif" alt="Teaching Assistant @ CodeCrew CodeSchool" width="100px">
+    <img src="imgs/work/Epic.png" "Epic Analyst" width="100px">
+    <img src="imgs/work/epicenter.svg" width="100px"> 
+    <img src="imgs/work/FrontierDirectCare.png" alt="FullStack Developer @ Frontier Direct Care" width="100px">
+    <img src="imgs/work/ookla.png" alt="Software Engineer 1 @ Ookla" width="100px">
+    <img src="imgs/work/RedRover.avif" alt="Web Team Lead & Frontend Engineer @ RedRover" width="100px">
+    <img src="imgs/work/RegionalOne.avif" alt=".NET Software Developer @ Regional One" width="100px">
+    <img src="imgs/work/routesndJobs.png" alt="Senior UI/UX Developer @ Routes and Jobs" width="100px">
+    <img src="imgs/work/SoapStandle.webp" alt="Operations Manager @ SoapStandle" width="100px">
     <img src="imgs/work/uncomplicatedinc.png" width="100px">
     <img src="imgs/work/xAi.png" width="100px">
 </div>
