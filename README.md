@@ -1,8 +1,10 @@
 # hello world 👋🏾
 
-iam DJ, a technologist, educator, and musician. As a multifaceted guy, feel free to reach out, check out any of these sample projects from game jams and my notes & research. 
+iam DJ, a technologist, educator, and musician.
 
-My real production work over my careeris largely proprietary, but you can find out more about those roles in PDF format @ [https://resume.dij.io](https://resume.dij.io) or in text @ [/resume](/resume)
+Feel free to reach out or check out any of these sample projects from my notes & research and the occasional game jam. 
+
+My real production work over my career is largely proprietary, but you can find out more about those roles in PDF format @ [https://resume.dij.io](https://resume.dij.io) or in text @ [/resume](/resume)
 
 ## My LN Addresses: 
 ⚡ [dij@strike.me](https://strike.me/dij/)
@@ -12,7 +14,7 @@ My real production work over my careeris largely proprietary, but you can find o
 
 [Wattville](https://github.com/mrjones91/wattville) Supercharging Small-town TN with Eco-Friendly Data Centers 🛠️
 
-⚙️🎮 Building Games and Bitcoin Software with Zig/C
+⚙️🎮 Building Games and Bitcoin Software with C/C++/Zig
 
 ### Proof of Work:
 
