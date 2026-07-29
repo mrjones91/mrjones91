@@ -42,7 +42,7 @@ My real production work over my careeris largely proprietary, but you can find o
     <img src="imgs/work/CodeSchool.avif" alt="Teaching Assistant @ CodeCrew CodeSchool" width="100px">
     <img src="imgs/work/Epic.png" "Epic Analyst" width="100px">
     <img src="imgs/work/epicenter.svg" width="100px"> 
-    <img src="imgs/work/FrontierDirectCare.png" alt="FullStack Developer @ Frontier Direct Care" width="100px">
+    <img src="imgs/work/FrontierDirect.webp" alt="FullStack Developer @ Frontier Direct Care" width="100px">
     <img src="imgs/work/ookla.png" alt="Software Engineer 1 @ Ookla" width="100px">
     <img src="imgs/work/RedRover.avif" alt="Web Team Lead & Frontend Engineer @ RedRover" width="100px">
     <img src="imgs/work/RegionalOne.avif" alt=".NET Software Developer @ Regional One" width="100px">
