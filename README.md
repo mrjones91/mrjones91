@@ -35,8 +35,7 @@ My real production work over my careeris largely proprietary, but you can find o
 </div>
 
 ##### My Former Students/Mentees Have Worked At:
-<div>
-    
+<div> 
     <img src="imgs/work/AutoZone.avif" alt="Systems Engineer @ Autozone" width="100px">
     <img src="imgs/work/ChristCommunityHealthServices.svg" alt="Help Desk Analyst @ Christ Community Health Services" width="100px">
     <img src="imgs/work/CityofMemphis.avif" alt="Technology Intern @ City of Memphis" width="100px">
