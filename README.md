@@ -1,10 +1,10 @@
 # hello world 👋🏾
 
-iam DJ, a technologist, educator, and musician.
+iam DJ, a [technologist](https://github.com/mrjones91), [educator](https://dij.io/cs), and [musician](https://dij.io/sax).
 
-Feel free to reach out or check out any of these sample projects from my notes & research and the occasional game jam. 
+Feel free to reach out for help with your project, education program, or need some sweet soulful tunes for an event. While you're here, check out my links for sample projects from my notes & research and the occasional game jam. 
 
-My real production work over my career is largely proprietary, but you can find out more about those roles in PDF format @ [https://resume.dij.io](https://resume.dij.io) or in text @ [/resume](/resume)
+My real production work over my career is largely proprietary, but you can find out more about those roles in PDF format @ [https://resume.dij.io](https://resume.dij.io) or in text @ [/resume](https://dij.io/resume)
 
 ## My LN Addresses: 
 ⚡ [dij@strike.me](https://strike.me/dij/)
@@ -60,10 +60,10 @@ My real production work over my career is largely proprietary, but you can find 
 
 ### My Skills:
 ##### Backend, Systems Engineering, Game Development:
-[![My Skills](https://skillicons.dev/icons?i=zig,c,cpp,cs,dotnet,nodejs,express,docker,unity,unreal,wasm,windows,ubuntu,linux,apple&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=zig,c,cpp,cs,bash,dotnet,nodejs,express,docker,unity,unreal,wasm,windows,ubuntu,linux,apple&theme=dark&perline=5)](https://skillicons.dev)
 
-##### Bitcoin:
-[![My Skills](https://skillicons.dev/icons?i=bash,ubuntu,linux&theme=dark)](https://skillicons.dev)
+<!--##### Bitcoin:
+[![My Skills](https://skillicons.dev/icons?i=bash,ubuntu,linux&theme=dark)](https://skillicons.dev)-->
 
 <!-- ##### Game Platforms:
 [![My Skills](https://skillicons.dev/icons?i=zig,c,cpp,html,wasm,unity,unreal,apple,windows,linux,discord&theme=dark)](https://skillicons.dev) -->

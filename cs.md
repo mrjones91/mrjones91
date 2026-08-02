@@ -7,6 +7,7 @@ Employers Include:
 - CodeCrew, 2022-Present
 As the Senior Instructor at [CodeCrew](https://code-crew.org/codeschool)'s [CodeSchool](https://github.com/CodeCrew-CodeSchool) in Memphis, TN, I lead a team of Instructors and TA staff in the development of course and workshop curriculum for our Bootcamp and Workshop offerings.
 We teach Adult Learners various technical skills, largely based around App Development and Data Science. 
+Currently, for the 2026-27 school year, I'm running the Code Crew Academy at the Academy of West Memphis high school.
 
 - dijital Academy, 2014-2022
 
