@@ -1,4 +1,4 @@
-body, img[alt="My Skills"], td {
+body, img[alt="My Skills"], div img, td {
   background-color: rgb(13, 17, 23);
   color: rgb(240, 246, 252);
   /* text-align: center; */
