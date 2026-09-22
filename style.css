@@ -4,7 +4,7 @@ body, td {
   /* text-align: center; */
 }
 
-img[alt="My Skills"], img[width="100px"] {
+img[alt="My Skills"]:hover, img[width="100px"]:hover {
   background-color: rgb(14, 16, 35);
 }
 
