@@ -42,7 +42,7 @@ My real production work over my career is largely proprietary, but you can find 
     <img src="imgs/work/ChristCommunityHealthServices.svg" alt="Help Desk Analyst @ Christ Community Health Services" width="100px">
     <img src="imgs/work/CityofMemphis.avif" alt="Technology Intern @ City of Memphis" width="100px">
     <img src="imgs/work/CodeSchool.avif" alt="Teaching Assistant @ CodeCrew CodeSchool" width="100px">
-    <img src="imgs/work/Epic.png" "Epic Analyst" width="100px">
+    <img src="imgs/work/Epic.png" alt="Epic Analyst" width="100px">
     <img src="imgs/work/epicenter.svg" width="100px"> 
     <img src="imgs/work/FrontierDirect.webp" alt="FullStack Developer @ Frontier Direct Care" width="100px">
     <img src="imgs/work/ookla.png" alt="Software Engineer 1 @ Ookla" width="100px">
